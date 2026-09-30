@@ -1,2 +1,2 @@
 # hecmocer-pro.github.io
-Personal portfolio
+A temporary landing page used while my personal portfolio was under maintenance.
